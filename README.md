@@ -1,4 +1,4 @@
-#Combined EOG Signal Visualization
+![port ](https://github.com/praveen302002/Eog-Project/assets/175030196/9b5e4a1c-e547-4f12-a970-b449b5a3663e)#Combined EOG Signal Visualization
 This project involves loading, combining, and visualizing Electrooculography (EOG) signals from CSV files. The signals from different channels are summed and plotted to show the combined EOG signals.
 
 Table of Contents
@@ -63,7 +63,7 @@ Place your CSV files in the project directory.
 Update the file_paths list in the main() function with your actual file paths.
 Run the script:
 sh
-Copy code
+
 python script_name.py
 
 
